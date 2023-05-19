@@ -1,2 +1,2 @@
 # Data_Ejemplo
-Archivos diversos para ejemplos.
+Archivos diversos para ejmplos.
